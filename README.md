@@ -1,0 +1,1 @@
+# mgt_psy_comp_theory
